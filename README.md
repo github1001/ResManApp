@@ -25,3 +25,5 @@ To run the Android application, use this command:
 ```
 react-native run-android
 ```
+
+Alternatively open project in Android Studio, running it on emulator. That's what worked for me. I remember using the Nexus 4 phone, with 4 gb ram on the emulator.
