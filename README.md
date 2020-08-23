@@ -1,4 +1,4 @@
-# Resident Manager App
+# Resident manager mobile app
 This repository demonstrates a residential management system with a simple chat application built with React Native (frontend) and Firebase (backend). The chat application uses much of the available open source materials. The residential applications, designs and use cases are work in progress that never took off to superstardom.
 
 Copy the config from your Firebase account and paste it to firebase.js file that can be found by the path: app/configs/firebase.js 
